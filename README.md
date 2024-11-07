@@ -34,7 +34,34 @@ This application is designed to help users find nearby ambulance services and do
 2. Navigate to the frontend directory (i.e. coding) and install dependencies:
 3. Start the frontend:
    npm start
-4. Navigate to the backend directory and install dependencies:
-5. Start the server:
+   This will start the frontend at http://localhost:3000.
+5. Navigate to the backend directory and install dependencies:
+6. Start the server:
    npm run start
-7. 
+   The backend server will start on http://localhost:5000.
+
+# Functionality
+
+## CRUD Operations
+- **Create**: Add new ambulances and doctors.
+- **Read**: View the list of ambulances and doctors.
+- **Update**: Edit existing ambulance and doctor records.
+- **Delete**: Remove ambulance and doctor records.
+
+## Pagination
+- Displays the first 10 records by default.
+- Supports pagination with 10 records per page.
+
+## Record Details
+For each record, the following details are shown:
+- **Name**
+- **Description**
+- **Location**
+
+## Notes
+- The app uses an in-memory JSON file to store data.
+- Images are handled using **Cloudinary**.
+
+## Conclusion
+This project demonstrates a simple yet effective way to manage ambulance and doctor records. It includes essential CRUD operations, pagination, and state handling, making it a practical solution for real-world applications.
+
