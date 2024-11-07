@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Ambulance 1",
+    "description": "Emergency Medical Vehicle",
+    "location": "New York"
+  },
+  {
+    "id": 2,
+    "name": "Ambulance 2",
+    "description": "Ambulance with advanced care",
+    "location": "Los Angeles"
+  },
+  {
+    "id": 3,
+    "name": "Ambulance 3",
+    "description": "Basic life support ambulance",
+    "location": "Chicago"
+  },
+  {
+    "id": 4,
+    "name": "Ambulance 4",
+    "description": "Emergency medical vehicle",
+    "location": "Houston"
+  },
+  {
+    "id": 5,
+    "name": "Ambulance 5",
+    "description": "Ambulance with ICU",
+    "location": "San Francisco"
+  },
+  {
+    "id": 6,
+    "name": "Ambulance 6",
+    "description": "Advanced ambulance",
+    "location": "Dallas"
+  },
+  {
+    "id": 7,
+    "name": "Ambulance 7",
+    "description": "Life-saving ambulance",
+    "location": "Austin"
+  },
+  {
+    "id": 8,
+    "name": "Ambulance 8",
+    "description": "Ambulance with neonatal support",
+    "location": "Seattle"
+  },
+  {
+    "id": 9,
+    "name": "Ambulance 9",
+    "description": "Ambulance with trauma care",
+    "location": "Miami"
+  },
+  {
+    "id": 10,
+    "name": "Ambulance 10",
+    "description": "Rapid response vehicle",
+    "location": "Boston"
+  },
+  {
+    "id": 11,
+    "name": "Ambulance 11",
+    "description": "Pediatric ambulance",
+    "location": "Denver"
+  },
+  {
+    "id": 12,
+    "name": "Ambulance 12",
+    "description": "Ambulance with trauma center",
+    "location": "Phoenix"
+  },
+  {
+    "id": 13,
+    "name": "Ambulance 13",
+    "description": "Ambulance with paramedics",
+    "location": "Atlanta"
+  },
+  {
+    "id": 14,
+    "name": "Ambulance 14",
+    "description": "Ambulance for heart emergencies",
+    "location": "Philadelphia"
+  },
+  {
+    "id": 1730970194536,
+    "name": "Ambulance 15",
+    "description": "Mumbai Hospital",
+    "location": "Mumbai"
+  }
+]

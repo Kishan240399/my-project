@@ -1,0 +1,18 @@
+[
+    { "id": 1, "name": "Dr. Sarah Morgan", "specialty": "Cardiologist", "location": "City Heart Clinic" },
+    { "id": 2, "name": "Dr. John Smith", "specialty": "Orthopedic Surgeon", "location": "Downtown Hospital" },
+    { "id": 3, "name": "Dr. Emily Clark", "specialty": "Pediatrician", "location": "Children's Medical Center" },
+    { "id": 4, "name": "Dr. James Lee", "specialty": "Dermatologist", "location": "Skin Care Clinic" },
+    { "id": 5, "name": "Dr. Michael Brown", "specialty": "Neurologist", "location": "Brain and Spine Institute" },
+    { "id": 6, "name": "Dr. Jessica Williams", "specialty": "General Practitioner", "location": "Wellness Clinic" },
+    { "id": 7, "name": "Dr. Daniel Harris", "specialty": "Plastic Surgeon", "location": "Aesthetic Surgery Center" },
+    { "id": 8, "name": "Dr. Natalie Wright", "specialty": "Obstetrician/Gynecologist", "location": "Women's Health Center" },
+    { "id": 9, "name": "Dr. Richard Taylor", "specialty": "Rheumatologist", "location": "Joint Health Clinic" },
+    { "id": 10, "name": "Dr. Olivia Johnson", "specialty": "Endocrinologist", "location": "Hormone Care Center" },
+    { "id": 11, "name": "Dr. Samuel Mitchell", "specialty": "Gastroenterologist", "location": "Digestive Health Clinic" },
+    { "id": 12, "name": "Dr. Kate Moore", "specialty": "Ophthalmologist", "location": "Vision Care Clinic" },
+    { "id": 13, "name": "Dr. Robert Yamal", "specialty": "Chiropractor", "location": "Vision Care Clinic" },
+    { "id": 14, "name": "Dr. Pedri Gonzales", "specialty": "Physical Therapy", "location": "Vision Care Clinic" },
+    { "id": 15, "name": "Dr. Raphinha", "specialty": "Radiologist", "location": "Vision Care Clinic" }
+]
+  
