@@ -30,3 +30,11 @@ This application is designed to help users find nearby ambulance services and do
 1. Clone the repository:
    ```bash
    git clone https://github.com/kishanapirotan/my-project.git
+
+2. Navigate to the frontend directory (i.e. coding) and install dependencies:
+3. Start the frontend:
+   npm start
+4. Navigate to the backend directory and install dependencies:
+5. Start the server:
+   npm run start
+7. 
